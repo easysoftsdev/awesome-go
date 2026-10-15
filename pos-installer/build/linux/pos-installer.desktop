@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=pos-installer
+Exec=pos-installer
+Icon=pos-installer
+Categories=Development;
+Terminal=false
+Keywords=wails
+Version=1.0
+StartupNotify=false
